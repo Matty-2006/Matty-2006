@@ -52,16 +52,12 @@
 
 ### 📊 Estadísticas de GitHub
 
-![Mateo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matty-2006&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstme-halil-ibrahim-celiks-projects.vercel.app/api?username=Matty-2006&show_icons=true&theme=tokyonight&hide_border=true" alt="Mateo's GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matty-2006&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-### 🐍 Racha de Contribuciones
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Matty-2006&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstme-halil-ibrahim-celiks-projects.vercel.app/api/top-langs/?username=Matty-2006&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
-
-> *"El código limpio siempre parece escrito por alguien a quien le importa."*
