@@ -10,8 +10,6 @@
 ---
 
 ## 🚀 About Me
-
-```javascript
 const mateo = {
   education: "Escuela Politécnica Nacional (ESFOT)",
   degree: "Software Development",
