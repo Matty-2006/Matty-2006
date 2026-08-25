@@ -50,18 +50,19 @@
 
 ---
 
-### 🐍 Racha de Contribuciones
+### 📈 Lenguajes Más Usados (Actualización Automática)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matty-2006&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Matty-2006&theme=2077" alt="Lenguajes por Repositorio" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Matty-2006&theme=2077" alt="Lenguajes por Commits" />
 </p>
 
 ---
 
-### 📊 Perfil General de Código
+### 🐍 Racha de Contribuciones
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matty-2006&theme=2077" alt="Profile Summary" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matty-2006&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 ---
