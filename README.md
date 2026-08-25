@@ -1,6 +1,6 @@
 ![Header Banner](https://raw.githubusercontent.com/Matty-2006/Matty-2006/main/header.jpg)
 
-# Mateo Rodríguez 👋
+# Hi, I´m Mateo Rodríguez 👋
 ### Estudiante de Desarrollo de Software @ EPN (ESFOT) 🎓 | Programador Junior 💻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-rodr%C3%ADguez-81b8332a4/)
