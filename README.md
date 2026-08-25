@@ -67,4 +67,4 @@
 
 ---
 
-> *"El código limpio siempre parece escrito por alguien a quien le importa."*
+
