@@ -50,26 +50,23 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Matty-2006">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Matty-2006&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matty-2006&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Lenguajes" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matty-2006&theme=2077" alt="Perfil GitHub completo" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matty-2006&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Matty-2006&theme=2077" alt="Lenguajes por repositorio" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Matty-2006&theme=2077" alt="Lenguajes más usados por commits" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Matty-2006&theme=radical&no-bg=true&no-frame=true&row=2&column=4" alt="GitHub Trofeos" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matty-2006&theme=2077" alt="Racha de contribuciones" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Matty-2006">
-    <img src="https://komarev.com/ghpvc/?username=Matty-2006&color=ff6e96&style=flat-square" alt="Visitas al perfil" />
+    <img src="https://komarev.com/ghpvc/?username=Matty-2006&color=ff6e96&style=flat-square" alt="Contador de visitas" />
     <img src="https://img.shields.io/github/followers/Matty-2006?label=Followers&style=social" alt="Seguidores" />
+    <img src="https://img.shields.io/github/stars/Matty-2006?affiliations=OWNER&style=social" alt="Estrellas" />
   </a>
 </p>
 
