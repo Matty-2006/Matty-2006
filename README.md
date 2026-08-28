@@ -58,6 +58,10 @@
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Matty-2006&theme=2077" alt="Lenguajes más usados por commits" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Matty-2006/Matty-2006/output/github-contribution-grid-snake-dark.svg" alt="Serpiente de contribuciones" />
+</p>
+
 ---
 
 > *"No se trata solo de escribir código, sino de resolver problemas y crear valor."*
