@@ -64,6 +64,6 @@
 
 <div align="center">
 
-**Hecho con 💚 por Mateo Rodríguez**
+**Hecho con ❤️ por Mateo Rodríguez**
 
 </div>
