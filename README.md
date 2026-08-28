@@ -47,18 +47,28 @@
 
 ---
 
-## 📊 Racha & Estadísticas
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/Matty-2006">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Matty-2006&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matty-2006&layout=compact&langs_count=8&theme=react&hide_border=true" />
+  </a>
+</div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matty-2006&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matty-2006&theme=react&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Matty-2006&theme=onedark&no-bg=true&no-frame=true&row=2&column=4" alt="GitHub Trofeos" />
+  </a>
 </p>
 
 <!-- La serpiente se genera automáticamente con el workflow .github/workflows/snake.yml -->
-![snake gif](https://raw.githubusercontent.com/Matty-2006/Matty-2006/output/github-contribution-grid-snake-dark.svg)
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Matty-2006&theme=2077" alt="Lenguajes por Repositorio" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Matty-2006&theme=2077" alt="Lenguajes por Commits" />
+  <img src="https://raw.githubusercontent.com/Matty-2006/Matty-2006/output/github-contribution-grid-snake-dark.svg" alt="Serpiente de contribuciones" />
 </p>
 
 ---
