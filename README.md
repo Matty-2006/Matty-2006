@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-rodr%C3%ADguez-81b8332a4/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateorodriguezxd106@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Matty-2006)
-[![Portafolio](https://img.shields.io/badge/FRUTPULP_Site-6DB33F?style=for-the-badge&logo=vercel&logoColor=white)](https://frutpulp.vercel.app)
 
 ---
 
@@ -26,31 +25,14 @@
 
 ---
 
-## 🚀 Proyecto Destacado — FRUTPULP
+## 💻 Proyectos
 
-<div align="center">
-
-| | |
-| :---: | :--- |
-| 🌐 **Sitio en producción** | **[frutpulp.vercel.app](https://frutpulp.vercel.app)** |
-| 🧩 **Descripción** | Sitio web de **FRUTPULP**, marca ecuatoriana de pulpas de fruta 100% natural. Muestra de productos, sabores, testimonios y pedidos por WhatsApp. |
-| ⚙️ **Stack** | Next.js · React · TypeScript · Tailwind CSS · GSAP · Lenis |
-| ☁️ **Deploy** | Vercel (deploy automático con cada push a `master`) |
-| 📦 **Repo** | [`FRUTPULP`](https://github.com/Matty-2006/FRUTPULP) |
-
-</div>
-
-> ⚡ **Mira el resultado en vivo:** **https://frutpulp.vercel.app**
-
----
-
-## ⚡ Proyectos en Desarrollo Activo
-
-| Proyecto | Descripción |
-| :--- | :--- |
-| 🍓 **FRUTPULP** | Sitio web de pulpas de fruta natural (Next.js) desplegado en producción. Pedidos por WhatsApp, showcase animado de 7 sabores y SEO optimizado. |
-| 🎓 **CNM App** | Plataforma de gestión de tutorías académicas desarrollada con Spring Boot y JavaFX. |
-| 🌐 **NetCourse** | Plataforma web interactiva para la enseñanza de conceptos de redes de computadoras. |
+| Proyecto | Descripción | Tecnologías |
+| :--- | :--- | :--- |
+| 🍓 **FRUTPULP** | Sitio web de pulpas de fruta natural (Next.js) desplegado en Vercel. Showcase animado de 7 sabores, pedidos por WhatsApp y SEO optimizado. [Ver en vivo](https://frutpulp.vercel.app) | `Next.js` `React` `TypeScript` `Tailwind CSS` `GSAP` |
+| 🎓 **CNM App** | Plataforma de gestión de tutorías académicas con verificación por correo y backend robusto. | `Java` `Spring Boot` `JavaFX` `SQL` |
+| 🌐 **NetCourse** | Plataforma web interactiva para la enseñanza de conceptos de redes de computadoras. | `React` `JavaScript` `CSS` `Node.js` |
+| 🔄 **Pipeline KNIME** | Flujo de procesamiento ETL para limpieza masiva de datos y normalización de fechas. | `KNIME` `Python` `SQL` |
 
 ---
 
@@ -85,6 +67,6 @@
 
 <div align="center">
 
-**Hecho con 💚 por Mateo Rodríguez** · [Visita FRUTPULP](https://frutpulp.vercel.app)
+**Hecho con 💚 por Mateo Rodríguez**
 
 </div>
